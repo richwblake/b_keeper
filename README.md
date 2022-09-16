@@ -21,7 +21,7 @@ Your b house can be structured however you like, but the outermost element must 
 
 Add each of your b houses to the existing <div> element with the id "houses"
 
-Example response from a GET request to 'http://localhost:3000/houses'
+Example response from a GET request to `http://localhost:3000/houses`
 
 ```
 houses: [
