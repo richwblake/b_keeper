@@ -12,10 +12,12 @@ Display each group of b's in a house. The name of the house and the number of b'
 
 Your b house can be structured however you like, but the outermost element must be a <div>. An example where the name of the house is "blue house", and it contains 5 b's:
 
+```
 <div>
     <h2>House name</h2>
     <p>B B B B B</p>
 </div>
+```
 
 Add each of your b houses to the existing <div> element with the id "houses"
 
