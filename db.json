@@ -1,0 +1,24 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "name": "Red house",
+      "num_bs": 24
+    },
+    {
+      "id": 2,
+      "name": "Blue house",
+      "num_bs": 41
+    },
+    {
+      "id": 3,
+      "name": "Yellow house",
+      "num_bs": 55
+    },
+    {
+      "id": 4,
+      "name": "Green house",
+      "num_bs": 13
+    }
+  ]
+}

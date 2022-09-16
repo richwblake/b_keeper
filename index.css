@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    font-size: 2rem;
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+}
+
+#houses {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 1.5rem;
+}
+
+#houses>* {
+    text-align: center;
+    width: 25vw;
+    margin: 1rem auto;
+    border: 1px solid black;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+
+#break {
+    border: 1px dashed black;
+}
